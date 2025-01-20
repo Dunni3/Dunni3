@@ -1,7 +1,7 @@
 # Hi, I'm Ian 👋
 
+I'm a fourth year PhD candidate in the <a href="http://www.compbio.cmu.edu">Joint Carnegie Mellon - University of Pittsburgh PhD program in Computational Biology</a> where I am advised by <a href="http://bits.csb.pitt.edu/">David Koes</a>. I am broadly interested in machine learning methods for molecular discovery.  My PhD thesis is focused on developing deep generative models for structure-based drug design.
 
-## My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dunni3&show_icons=true&theme=dark)
 
